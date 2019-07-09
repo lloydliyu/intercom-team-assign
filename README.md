@@ -2,6 +2,7 @@
 A simple project for Intercom to reassign conversations from away mode reassigns to the last team inbox.
 
 Originally created: June 2018
+
 Last updated: 9th July 2019
 
 ## Problem to solve
